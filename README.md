@@ -67,8 +67,8 @@ Winning Percentage: 73.8%
 
 #### Terminal vs Text File
 <p float="left">
- <img src="https://github.com/vkbt/Election_Analysis/blob/main/Resources/PyPoll%2Bcounties%20terminal%20output.png" width=40% height=40%>
- <img src="https://github.com/vkbt/Election_Analysis/blob/main/Resources/PyPoll%2Bcounties%20text%20file%20output.png" width=41% height=41%>
+ <img src="https://github.com/vkbt/Election_Analysis/blob/main/Resources/PyPoll_counties_terminal_output.png" width=40% height=40%>
+ <img src="https://github.com/vkbt/Election_Analysis/blob/main/Resources/PyPoll_counties_text_file_output.png" width=41% height=41%>
  </p>
  
 ## Challenge Overview
