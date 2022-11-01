@@ -68,7 +68,7 @@ Winning Percentage: 73.8%
 #### Terminal vs Text File
 <p float="left">
  <img src="https://github.com/vkbt/Election_Analysis/blob/main/Resources/PyPoll%2Bcounties%20terminal%20output.png" width=40% height=40%>
- <img src="https://github.com/vkbt/Election_Analysis/blob/main/Resources/PyPoll%2Bcounties%20text%20file%20output.png" width=40% height=40%>
+ <img src="https://github.com/vkbt/Election_Analysis/blob/main/Resources/PyPoll%2Bcounties%20text%20file%20output.png" width=41% height=41%>
  </p>
  
 ## Challenge Overview
@@ -78,5 +78,4 @@ To get requested results we created a number of variables, loops and conditional
 ## Challenge Summary
 
 
-With additional ZIP code information  the script can go even further and show us which candidate is more popular within his or her ZIP code. 
-We would also suggest additional demographic information to the data that would show us total population of the ZIP code or county allowing us to calculate percentage of voting population.
+With additional ZIP code information the script can go even further and show us which candidate is more popular within each ZIP code. Adding more demographic information to the data would give us a better picture of total population for each ZIP code or county allowing us to calculate more detailed view of voting population.
